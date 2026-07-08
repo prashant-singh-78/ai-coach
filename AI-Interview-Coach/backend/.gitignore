@@ -1,0 +1,12 @@
+node_modules
+venv
+.env
+.pyc
+__pycache__
+dist
+build
+coverage
+uploads
+logs
+.pytest_cache/
+alembic.ini
