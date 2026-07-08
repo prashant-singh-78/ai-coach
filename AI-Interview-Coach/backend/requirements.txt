@@ -137,7 +137,7 @@ pycparser==3.0
 pydantic==2.12.5
 pydantic-settings==2.14.2
 pydantic_core==2.41.5
-pygame==2.6.1
+pygame==2.5.2
 Pygments==2.19.2
 pyjsparser==2.7.1
 pyparsing==3.3.2
